@@ -1,0 +1,11 @@
+parser: babel-eslint
+
+extends: eslint-config-cycle
+
+plugins:
+  - cycle
+
+env:
+  browser: true
+  node: true
+

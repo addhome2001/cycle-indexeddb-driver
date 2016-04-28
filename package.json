@@ -1,0 +1,24 @@
+{
+  "name": "cycle-indexeddb-driver",
+  "version": "0.1.0-alpha",
+  "description": "A Cycle.js driver for IndexedDB",
+  "unlicense": "Public Domain",
+  "author": "Henrik Lundgren",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henriklundgren/cycle-indexeddb-driver"
+  },
+  "dependencies": {
+    "ramda": "^0.21.0"
+  },
+  "peerDependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.8.0",
+    "eslint-config-cycle": "^3.2.0",
+    "eslint-plugin-cycle": "^1.0.2",
+    "eslint-watch": "^2.1.10"
+  }
+}
